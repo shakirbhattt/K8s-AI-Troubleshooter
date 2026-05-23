@@ -56,7 +56,7 @@ k8s-ai-troubleshooter/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/k8s-ai-troubleshooter.git
+git clone https://github.com/shakirbhattt/k8s-ai-troubleshooter.git
 
 cd k8s-ai-troubleshooter
 ```
